@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/menu_home" />
+
+        <item
+            android:id="@+id/nav_perfil"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="Perfil"
+
+            />
+        <item android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_baseline_exit_to_app_24"
+            android:title="Logout"
+
+            />
+        <item android:id="@+id/menu_sair"
+            android:icon="@drawable/ic_baseline_close_24"
+            android:title="Sair"/>
+        <item android:id="@+id/nav_Cadastrar"
+            android:title="Cadastrar"
+            android:icon="@drawable/ic_cadastrar_24"/>
+
+    </group>
+
+    <item android:title="Rede social">
+        <menu>
+            <item android:id="@+id/facebook"
+                android:title="Facebook"/>
+
+        </menu>
+    </item>
+
+
+
+</menu>

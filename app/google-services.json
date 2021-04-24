@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "841133642477",
+    "project_id": "controle-de-correspondencias",
+    "storage_bucket": "controle-de-correspondencias.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841133642477:android:2248cf5b0e8a6a562632e4",
+        "android_client_info": {
+          "package_name": "com.example.protocoloderecebimento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841133642477-tfgq7k9r761nemrpdrnldnh26bskleau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.protocoloderecebimento",
+            "certificate_hash": "91f5ef348d292689c7d38d27725856ff3163b411"
+          }
+        },
+        {
+          "client_id": "841133642477-timidq8uspaj49lkql2n0d0l2por2kof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9_wdGJAMm_HZGX0OpqXYLl5z0uian9aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841133642477-timidq8uspaj49lkql2n0d0l2por2kof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
